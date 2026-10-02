@@ -1,4 +1,4 @@
-For the full problem statement and requirements of this project, refer to the project specification document: [OS_Project_Specification.pdf](OS_Project_Specification.pdf)
+This project was made as part of the course CS3.306 Algorithms and Operating Systems taken in Monsoon '26 in IIIT Hyderabad. For the full problem statement and requirements of this project, refer to the project specification document: [OS_Project_Specification.pdf](OS_Project_Specification.pdf)
 
 ------------------------------------------------------------------------------------------------------------
 
